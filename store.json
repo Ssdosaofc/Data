@@ -665,5 +665,26 @@
         "android_OS": "7.0+",
         "version": "1.1.0",
         "content": "This is an app that creates animations and records the current scenario of LG.\n\nSimpleCMS E.S is an android application. which creates animations and exports storyboard location files in esp format. This application also records the current scenario of LiquidGalaxy and updates it on the user interface.\n\nFeatures of Simple CMS ES\n\nZoom-to: A simple camera to move to a point from a higher altitude. Your first and last frames will match the exact framing of your camera in their respective steps..\n\nOrbit: A perfectly smooth circular orbit around a point of interest.\n\nSpiral: A gradually shrinking, descending orbit around a point of interest.\n\nREC: it captures the current scenario of LiquidGalaxy and then extracts the desired data from it.\n\nAfter exporting location files it also saves it locally under an application specific folder.To view the animations, we can import esp files in Google Earth Studio. This application was developed as part of Google Summer of Code 2021 by Goutam Verma,with Diego Riveros as mentor, Andreu Ibañez and Ivan Josa as co-mentor."
+    },
+    {
+        "name": "LG AI Fictional Itinerary Gemma",
+        "icon": "icon.webp",
+        "category": "",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp",
+            "6.webp"
+        ],
+        "base_url": "/apps/LG_AI_Fictional_Itinerary_Gemma/",
+        "file": "app/LG AI Fictional Itinerary Gemma_1.0.13_13.apk",
+        "pwa_link": "",
+        "type": "app",
+        "date": "",
+        "android_OS": "",
+        "version": "1.0.13",
+        "content": "The LG AI Fictional Itinerary Gemini combines AI stories with visuals for immersive, creative and personalized travel experiences with the Gemini AI LLM model.\nThe LG AI Fictional Itinerary Gemini project aims to transform travel planning by merging Generative Text AI with visually immersive storytelling on the LG Rig platform. It creates rich, engaging narratives that transport users to imaginative, fictional worlds while highlighting key Points of Interest within each destination with the Gemini AI LLM model. The platform emphasizes sequential touring recommendations and incorporates voice models to enhance interaction. By blending creativity with captivating visuals, the project offers a unique, personalized travel experience that showcases diverse cultures and landscapes, making travel planning both inspiring and memorable."
     }
 ]
